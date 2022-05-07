@@ -1,0 +1,14 @@
+.nav {
+  padding: 5px;
+  background-color: powderblue;
+  position: sticky;
+}
+
+.nav ul {
+  display: flex;
+}
+
+.nav li {
+  margin-right: 5px;
+  color: white;
+}
