@@ -1,5 +1,7 @@
 import Layout from "../components/Layout";
 import "../styles/globals.css";
+import "../styles/Header.css";
+import "../styles/login.css";
 
 function MyApp({ Component, pageProps }) {
   return (

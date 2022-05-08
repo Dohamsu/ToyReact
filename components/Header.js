@@ -17,9 +17,6 @@ function Header() {
             {" "}
             <a href="/Login"> 로그인 </a>{" "}
           </span>
-        </ul>
-
-        <ul className="header_orsderList">
           <span className="header_orderList">
             {" "}
             <a href="/orderList"> 장바구니 </a>{" "}

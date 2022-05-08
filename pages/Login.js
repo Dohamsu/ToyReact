@@ -2,7 +2,7 @@ import React from "react";
 
 const Login = () => {
   return (
-    <div class="div1">
+    <div>
       <ul>
         <h4> 아이디 </h4>
         <input
@@ -17,6 +17,7 @@ const Login = () => {
           placeholder="비밀번호를 입력하세요."
         ></input>
       </ul>
+
       <button> 로그인 </button>
       <button> ID 찾기 </button>
       <button> PW 찾기 </button>

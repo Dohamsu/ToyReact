@@ -12,32 +12,6 @@
   align-items: center;
 }
 
-.header {
-  height: 60px;
-  display: flex;
-  align-items: center;
-  background-color: rgb(1, 60, 79);
-  position: sticky;
-  top: 0;
-  z-index: 100;
-}
-
-.header_search {
-  display: flex;
-  align-items: center;
-  border-radius: 10px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.header_navi {
-  display: flex;
-  flex-direction: column;
-  margin-left: 10px;
-  margin-right: 10px;
-  justify-content: space-evenly;
-}
-
 .footer {
   display: flex;
   flex: 1;
